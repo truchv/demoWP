@@ -1,0 +1,6 @@
+2018-10-25T08:56:25+00:00 CRITICAL Cannot redeclare composerRequire9474c3141eb3b71af38322b986b98043() (previously declared in G:\xampp\htdocs\wordpress\wp-content\plugins\flexible-shipping-ups\vendor\composer\autoload_real.php:63) in G:\xampp\htdocs\wordpress\wp-content\plugins\truc-ups\vendor\composer\autoload_real.php on line 70
+
+2018-10-25T08:56:31+00:00 CRITICAL Cannot redeclare composerRequire9474c3141eb3b71af38322b986b98043() (previously declared in G:\xampp\htdocs\wordpress\wp-content\plugins\flexible-shipping-ups\vendor\composer\autoload_real.php:63) in G:\xampp\htdocs\wordpress\wp-content\plugins\truc-ups\vendor\composer\autoload_real.php on line 70
+
+2018-10-25T09:01:12+00:00 CRITICAL Cannot redeclare composerRequire9474c3141eb3b71af38322b986b98043() (previously declared in G:\xampp\htdocs\wordpress\wp-content\plugins\flexible-shipping-ups\vendor\composer\autoload_real.php:63) in G:\xampp\htdocs\wordpress\wp-content\plugins\truc-ups\vendor\composer\autoload_real.php on line 70
+
